@@ -1,0 +1,26 @@
+Edge-Attribute
+id
+jede ID entspricht einem Gast
+from
+"Gast, der oder die in der Sendung auftritt"
+to
+einmal in welcher Folge der Gast zu sehen ist und ob und wenn ja welcher Partei er oder sie angehört
+relation
+Berufsbezeichnung
+1= EU-Kommisionspräsident
+2=Parteivorsitzender
+3=Mitglied im Auswärtigen Ausschuss
+4=Mitglied des Deutschen Bundestags
+5=Bundesminister
+6=Stellvertretender Fraktionsvorsitzender im Bundestag
+7=Andere
+Node-Attribute
+id
+identische ID wie aus der Edgelist zur Identifikation des Politikers
+name
+Vollständiger Name des Gasts
+type
+1= Parteizugehörig
+2= Gast
+party
+Name der angehörigen Partei
