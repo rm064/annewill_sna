@@ -20,7 +20,7 @@ identische ID wie aus der Edgelist zur Identifikation des Politikers
 name
 Vollständiger Name des Gasts
 type
-1= Parteizugehörig
-2= Gast
+1= Gast
+2= Andere (Folge,Partei)
 party
 Name der angehörigen Partei
